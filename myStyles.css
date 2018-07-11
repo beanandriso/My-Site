@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+  font-size: 36px;
+  text-align: center;
+}
+
+#likes {
+  color: blue;
+}
+
+#dislikes {
+  color: red;
+}
